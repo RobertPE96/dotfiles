@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = robert.p.eickmeyer@gmail.com
+	name = Robert Eickmeyer
